@@ -1,4 +1,10 @@
-// This is a manifest file that'll be compiled into application.js, which will include all the files
+The Core Team is a cross departmental team representing key constituencies across the college (Students/Faculty/Staff). The team
+
+    handles communication of the project to the community their constituencies,
+    aids in the needs analysis (conducting interviews, etc) and
+    prepares the report for the academic council (project sponsors)
+
+The bulk of the Needs Analysis would happen during the second half of the spring semester and into the summer. Initial meetings will be weekly/bi-weekly and we'll continually re-assess.// This is a manifest file that'll be compiled into application.js, which will include all the files
 // listed below.
 //
 // Any JavaScript/Coffee file within this directory, lib/assets/javascripts, vendor/assets/javascripts,
